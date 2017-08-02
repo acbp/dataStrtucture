@@ -1,0 +1,17 @@
+{
+  "name": "dataStructure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -wG --check-leaks js/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "isparta": "^4.0.0",
+    "mocha": "^3.4.2"
+  }
+}
